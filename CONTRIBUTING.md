@@ -115,7 +115,7 @@ In brief:
     since that will make it difficult for you to work on other contributions.
 
 2.  We use [GitHub flow][github-flow] to manage changes:
-    1.  Create a new branch in your desktop copy of this repository for each significant change.
+    1.  Create a new branch in your desktop copy of this repository.
     2.  Commit the change in that branch.
     3.  Push that branch to your fork of this repository on GitHub.
     4.  Submit a pull request from that branch to the [master repository][repo].
